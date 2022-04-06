@@ -10,5 +10,5 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mis espectativas para este viaje son :
 
 - Aprender sobre Git y GitHub
-- Aprender sobre Back End
+- Aprender sobre BackEnd
 - Aplicar conocimientos aprendidos de Node.js en IoT
