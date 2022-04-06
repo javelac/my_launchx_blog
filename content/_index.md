@@ -7,7 +7,8 @@ Hola ✌️  soy el explorer José Antonio Vela y este es mi blog personal donde
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-🚀
+Mis espectativas para este viaje son :
+
 -Aprender sobre Git y GitHub
 -Aprender sobre Back End
 -Aplicar conocimientos aprendidos de Node.js en IoT
